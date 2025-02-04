@@ -47,7 +47,7 @@
 - Humano<br>
 - Guerreiro Crescido na Terra<br>
 - Crossover<br>
-- Laço de<br> 
+- Laço de Amizade<br> 
 - RPG</b></h3>
 
 </div>
