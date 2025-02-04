@@ -15,9 +15,9 @@
             - Recupera a vida por completo;<br>
             - Ataque e Defesa +300%;<br>
             - Defesa Efetiva contra todos os tipos;<br>
-            - Recebe um Ki adicional +3 por Tipo de Esfera de Ki obtido;<br>
+            - Recebe um Ki adicional +3 por Tipo de Orb de Ki obtido;<br>
             - Lança um Ultra Super Ataque;<br>
-            <b>Para os aliados da categoria "Heróis Protetores da Terre" ou "Potara":</b><br>
+            <b>Para os aliados da categoria "Heróis Protetores da Terra" ou "Potara":</b><br>
             - +2 de KI e +40% de Ataque e Defesa;<br>
             <b>Para cada ataque performado:</b><br>
             - Chance de acerto crítico em +20% até 100%;<br>
