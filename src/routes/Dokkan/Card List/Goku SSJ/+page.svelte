@@ -10,7 +10,7 @@
     </div>
     <center><a href="/Dokkan/Card List/Goku SSJ/Vegeta SSJ/Vegito SSJ" class="btn btn-primary btn-lg active" role="button" aria-pressed="true" style="background-color: #155c0d;"><b>Fusão Especial!</b></a></center><br>   
     <div class="detalhes">
-        <h3><b>Habilidade de Lider:</b><br>Personagens da categoria <b> Heróis Protetores da Terra </b>, <b>Guerreiros Fundidos</b> ou <b>Saiyajins Puros</b> ganham Ki +3, HP +200% ATK e DEF +170%; mais um adicional de HP, ATK e DEF +50% para personagens que também pertencem à categoria <b>Guerreiros Protetores da Terra</b> ou <b>Potara</b></h3>
+        <h3><b>Habilidade de Lider:</b><br>Personagens da categoria <b> Heróis Protetores da Terra </b>, <b>Guerreiros Fundidos</b> ou <b>Saiyajins Puros</b> ganham Ki +3, HP +200% ATK e DEF +170%; mais um adicional de HP, ATK e DEF +50% para personagens que também pertencem à categoria <b>Guerreiros Crescidos na Terra</b> ou <b>Potara</b></h3>
         <h3><b>Super Ataque:<br>- Kamehameha:</b> Aumenta o Ataque em +30%, Defesa em 50% por 1 turno e causa dano colossal a um inimigo</h3>
         <h3><b>Ultra Super Ataque:<br>- Indo com tudo com o Super Saiyajin 3:</b> Aumenta o Ataque em 50%, Defesa em 30% por 1 turno e causa dano mega colossal a um inimigo</h3>
         <h3><b>Passiva: O Plano do Ancião Kai<br>Efeito básicos:</b><br>
