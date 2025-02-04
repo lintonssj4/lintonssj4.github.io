@@ -15,8 +15,8 @@
         <h3><b>Ultra Super Ataque:<br>- Indo com tudo com o Super Saiyajin 3:</b> Aumenta o Ataque em 50%, Defesa em 30% por 1 turno e causa dano mega colossal a um inimigo</h3>
         <h3><b>Passiva: O Plano do Ancião Kai<br>Efeito básicos:</b><br>
             - Ataque e Defesa +200%;<br>
-            - Recebe um Ki adicional +2 por Tipo de Esfera de Ki obtido;<br>
-            <b>Para os aliados da categoria "Heróis Protetores da Terre" ou "Potara":</b><br>
+            - Recebe um Ki adicional +2 por tipo de Orb de Ki obtido;<br>
+            <b>Para os aliados da categoria "Heróis Protetores da Terra" ou "Potara":</b><br>
             - +1 de KI e +40% de Defesa;<br>
             <b>Pelos primeiros 3 turnos quando o personagem entra na batalha:</b><br>
             - Reduz o dano recebido em 50%;<br>
