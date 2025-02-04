@@ -67,7 +67,7 @@
 <style>
     .body{
         width: 98.9vw;
-        height: 400vh;
+        height: 100vh;
 
     }
 
