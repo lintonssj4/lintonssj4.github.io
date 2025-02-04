@@ -14,9 +14,9 @@
         <h3><b>Ultra Super Ataque:<br>- Canhão de Estrela em Chamas:</b> Aumenta o Defesa em 50%, Ataque em 30% por 1 turno e causa dano mega colossal a um inimigo</h3>
         <h3><b>Passiva: O plano do rei Yemma:<br>Efeito básicos:</b><br>
             - Ataque e Defesa +200%;<br>
-            - Recebe um Ki adicional +2 por Tipo de Esfera de Ki obtido;<br>
+            - Recebe um Ki adicional +2 por Tipo de Orb de Ki obtido;<br>
             - Reduz o dano recebido em 50%;<br>
-            <b>Para os aliados da categoria "Heróis Protetores da Terre" ou "Potara":</b><br>
+            <b>Para os aliados da categoria "Heróis Protetores da Terra" ou "Potara":</b><br>
             - +1 de KI e +40% de Ataque;<br>
             <b>Ao atacar:</b><br>
             - +100% de Ataque;<br>
