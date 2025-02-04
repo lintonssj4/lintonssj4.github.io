@@ -9,7 +9,7 @@
         <button id="swapButton" style="padding: 10px 20px; font-size: 16px; cursor: pointer; border: none; background-color: #007bff; color: white; border-radius: 5px; transition: background 0.3s;"><a href="/Dokkan/Card List/Goku SSJ">🔄</a></button>        
     </div>
     <div class="detalhes">
-        <h3><b>Habilidade de Lider:</b><br>Personagens da categoria <b> Heróis Protetores da Terra </b>, <b>Guerreiros Fundidos</b> ou <b>Saiyajins Puros</b> ganham Ki +3, HP +200% ATK e DEF +170%; mais um adicional de HP, ATK e DEF +50% para personagens que também pertencem à categoria <b>Guerreiros Protetores da Terra</b> ou <b>Potara</b></h3>
+        <h3><b>Habilidade de Lider:</b><br>Personagens da categoria <b> Heróis Protetores da Terra </b>, <b>Guerreiros Fundidos</b> ou <b>Saiyajins Puros</b> ganham Ki +3, HP +200% ATK e DEF +170%; mais um adicional de HP, ATK e DEF +50% para personagens que também pertencem à categoria <b>Guerreiros Crescidos na Terra</b> ou <b>Potara</b></h3>
         <h3><b>Super Ataque:<br>- Ataque do Big Bang:</b> Aumenta a Defesa em +30%, Ataque em 50% por 1 turno e causa dano colossal a um inimigo</h3>
         <h3><b>Ultra Super Ataque:<br>- Canhão de Estrela em Chamas:</b> Aumenta o Defesa em 50%, Ataque em 30% por 1 turno e causa dano mega colossal a um inimigo</h3>
         <h3><b>Passiva: O plano do rei Yemma:<br>Efeito básicos:</b><br>
