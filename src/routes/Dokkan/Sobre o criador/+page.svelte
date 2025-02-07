@@ -24,7 +24,7 @@
             - Estou estudando para ser engenheiro civíl;<br>
             <b>Nos tempos livres:</b><br>
             - Busco aprender coisas novas e estou sempre a disposição para alguma coisa.</h3>
-            <h3><b>Habilidade Ativa:<br>- Cegueira Suprema:</b> O personagem é imcapaz de enxergar bem<br>
+            <h3><b>Habilidade Ativa:<br>- Cegueira Suprema:</b> O personagem é incapaz de enxergar bem<br>
                 <b>Condição:</b> Apenas exista.</h3>    
             </div>
     <h3><b>Habilidade de Ligação:<br>
