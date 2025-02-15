@@ -20,7 +20,7 @@
       <h6 class="card-type">{rare} {type}</h6>
       <p class="card-text">{name}</p>
       <a href="/Dokkan/Card List/{link}" class="btn btn-primary btn-lg active" role="button" aria-pressed="true" style="background-color: orange;"><b>Detalhes</b></a><br>
-      <a href="{anima}" target="_blank" class="btn btn-primary btn-lg active" role="button" aria-pressed="true" style="background-color: orange;"><b>Animações</b></a>
+      <a href="{anima}" class="btn btn-primary btn-lg active" role="button" aria-pressed="true" style="background-color: orange;"><b>Animações</b></a>
 
     </div>
   </div>

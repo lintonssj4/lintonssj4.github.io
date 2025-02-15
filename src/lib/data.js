@@ -80,7 +80,7 @@ export const dokkancards = [
         link: 'VegetaSSBE',
         anima:'https://youtu.be/zV_3GJQZ2vw?si=YRLIaQV5ro0bA9bu',
     },
-        {
+    {
         name: 'Vegeta Super Saiyajin (Anjo) + Goku Super Saiyajin (Anjo)',
         title: 'Milagre sem precendentes',
         rare: 'LR',

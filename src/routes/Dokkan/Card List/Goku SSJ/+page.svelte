@@ -18,9 +18,6 @@
             - Recebe um Ki adicional +2 por Tipo de Esfera de Ki obtido;<br>
             <b>Para os aliados da categoria "Heróis Protetores da Terre" ou "Potara":</b><br>
             - +1 de KI e +40% de Defesa;<br>
-            <b>Ao atacar:</b><br>
-            - ATQ 200%<br>
-            - Taxa de redução de dano 20% <br>
             <b>Pelos primeiros 3 turnos quando o personagem entra na batalha:</b><br>
             - Reduz o dano recebido em 50%;<br>
             <b>Ao atacar com 10 ou mais de KI:</b><br>
