@@ -9,7 +9,7 @@
         <img src="https://pbs.twimg.com/media/GjhEh5_XsAAupzu?format=jpg&name=4096x4096" width="30%" height="80%">
         <button id="swapButton" style="padding: 10px 20px; font-size: 16px; cursor: pointer; border: none; background-color: #007bff; color: white; border-radius: 5px; transition: background 0.3s;"><a href="/Dokkan/Card List/Vegeta SSJ ANG/Goku SSJ ANG">🔄</a></button>        
     </div>
-<center><a href="/Dokkan/Card List/Vegeta SSJ ANG/Goku SSJ ANG/SGogeta" class="btn btn-primary btn-lg active" role="button" aria-pressed="true" style="background-color: #146c8c;"><b>Transformação!</b></a></center><br>   
+<center><a href="/Dokkan/Card List/Vegeta SSJ ANG/Goku SSJ ANG/SGogeta" class="btn btn-primary btn-lg active" role="button" aria-pressed="true" style="background-color: #146c8c;"><b>Fusão!</b></a></center><br>   
     <div class="detalhes">
         <h3><b>Habilidade de Lider:</b><br>Personagens da categoria <b>Sucessores</b>, <b>Lutadores fundidos</b> ou <b>Saiyajins Puros</b> ganham Ki +3, HP +200% e ATK e DEF +170%;
             mais um HP, ATK e DEF adicional +50% para personagens que também pertencem à categoria <b>Guerreiros Talentosos</b> ou <b>Fusão</b></h3>
