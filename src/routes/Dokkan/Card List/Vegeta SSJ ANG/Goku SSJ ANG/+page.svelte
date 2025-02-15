@@ -29,7 +29,7 @@
             <b>Ao atacar com 20 ou mais de Ki:</b><br>
             - Lança um Super Ataque adicional;<br>
             <b>Sendo o 1º atacante em um turno:</b><br>
-            -Defesa efetiva contra todos os tipos;
+            -Defesa efetiva contra todos os tipos;<br>
             -Chance de esquivar dos ataques do inimigo (incluindo Super Ataque) em 70%.</h3>
         <h3><b>Habilidade Ativa:<br>Uma Fusão sem Sucesso?!:</b> Causa dano extremo e atrasa o turno de ataque de um único inimigo por 1 turno, esquiva garantida (incluindo Super Ataque) por 3 turnos;<br> 
             <b>Condição:</b> Pode ser ativado a partir do turno de entrada do personagem (apenas uma vez, seja antes ou depois de ter ativado a Troca Reversível)</h3>
